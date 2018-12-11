@@ -142,9 +142,9 @@ div.map,img#us{
 	margin-left: 30px;
 	top: 90px;
 
-	animation: rotateRadial 10s linear 0 infinite;
-	-moz-animation: rotateRadial 10s linear 0 infinite;
-	-webkit-animation: rotateRadial 10s linear 0 infinite;
+	animation: rotateRadial 10s linear 0s infinite;
+	-moz-animation: rotateRadial 10s linear 0s infinite;
+	-webkit-animation: rotateRadial 10s linear 0s infinite;
 }
 
 #us{
