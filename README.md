@@ -1,4 +1,6 @@
 scrollAnimations
 ================
 
-This is my first website, using animations based on scrolling.
+This is my very first website which is using animations based on scrolling.
+
+Demo: https://mehrabkamrani.github.io/scrollAnimations/
